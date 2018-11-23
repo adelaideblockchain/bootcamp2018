@@ -1,6 +1,6 @@
 # Bootcamp2018
 
-## Welcome to our first every workshop/boot camp! 
+## Welcome to our very first workshop/boot camp! 
 
 In this session, you will learn the basics of Ethereum and its development language, Solidity!
 
